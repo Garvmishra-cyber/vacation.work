@@ -1,4 +1,4 @@
-
+// sum of n natural no.
 #include <stdio.h>
 int main() {
     int n;
